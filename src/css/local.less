@@ -153,6 +153,56 @@
             margin-top: 32/16rem;
         }
     }
+
+
+	//
+	// Shopy by Category section
+	//
+
+	#shop-categories {
+		.cs-container {
+				width: 100%;
+				max-width: 1280/16rem;
+				margin: auto;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+				row-gap: 40/16rem;
+
+				
+			.cs-title {
+				font-size: var(--headerFontSize);
+				font-weight: 900;
+				line-height: 1.2em;
+				text-align: left;
+				max-width: 800/16rem;
+				margin: 0 auto 16/16rem;
+				color: var(--headerColor);
+				position: relative;
+			}
+	
+			.categoryGrid {
+			display: grid;
+			gap: 32/16rem;
+			grid-template-columns: repeat(4, minmax(0, 1fr));
+			width: 75vw;
+		
+				.collectionItems {
+					.category-title {
+						text-align: center;
+					}
+					.cs-picture > img {
+							width: 100%;
+							height: 100%;
+							border-radius: 5%;
+							object-fit: cover;
+					}
+				}
+			}
+		}
+	}
+	
 }
 
 /* Desktop - 1024px */
