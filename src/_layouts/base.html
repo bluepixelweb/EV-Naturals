@@ -57,8 +57,9 @@
         <a class="skip" aria-label="skip to main content" href="#main">Click To Skip To Main Content</a>
 
         {% include "header.html" %}
-        <main id="main">{{ content | safe }}</main>
-        {% include "footer.html" %}
+        <main id="main">{{ content | safe }}
+		{% include "footercta.html" %}</main>
+		{% include "footer.html" %}
 
         <script defer src="/assets/js/nav.js"></script>
         <script defer src="/assets/js/dark.js"></script>

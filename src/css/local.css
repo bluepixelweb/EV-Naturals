@@ -146,6 +146,9 @@
   #sbs .button-solid {
     margin-top: 2rem;
   }
+  #shop-categories {
+    padding: var(--sectionPadding);
+  }
   #shop-categories .cs-container {
     width: 100%;
     max-width: 80rem;
@@ -178,11 +181,25 @@
   #shop-categories .cs-container .categoryGrid {
     display: grid;
     gap: 2rem;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     width: 75vw;
+  }
+  #shop-categories .cs-container .categoryGrid .collectionItems {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    gap: 1rem;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
   }
   #shop-categories .cs-container .categoryGrid .collectionItems .category-title {
     text-align: center;
+    font-size: 1.5rem;
   }
   #shop-categories .cs-container .categoryGrid .collectionItems .cs-picture > img {
     width: 100%;
@@ -212,6 +229,9 @@
   }
   #sbs .cs-right {
     margin: 0;
+  }
+  #shop-categories .cs-container .categoryGrid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 }
 /* Dark Mode */
@@ -244,6 +264,9 @@
   }
   body.dark-mode #sbs .cs-quote-icon {
     opacity: .2;
+  }
+  body.dark-mode #shop-categories .cs-container .cs-title {
+    color: var(--bodyTextColorWhite);
   }
 }
 /*-- -------------------------- -->
