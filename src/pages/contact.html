@@ -59,18 +59,29 @@ eleventyNavigation:
       <button class="cs-button-solid" type="submit">Submit Message</button>
     </form>
     <div class="cs-right-section">
-      <!--Email-->
-      <span class="cs-header">Email</span>
-      <a class="cs-link" href="mailto:support@yourdomain.com">support@yourdomain.com</a>
-      <!--Phone-->
-      <span class="cs-header">Phone</span>
-      <a class="cs-link" href="tel:219-555-1234">(219) 555-1234</a>
-      <!--Address-->
-      <span class="cs-header">Address</span>
-      <a class="cs-link" href="">2553 Woodbridge Lane, <span class="cs-block">Boston Ware 120</span></a>
+		<div class="location-flex"
+			<div class="location-column">
+				<h2 class="location-title">Parma</h2>
+				<div class="location-img">
+					{% image './src/images/parma-front.jpg', 'photo of the front of the parma location', '', 'lazy', '(max-width: 400px) 400px, (max-width: 850px) 850px, 1920px'%}
+				</div>	
+				<div class="hours">
+					<h3>Hours:</h3>
+					<p>Monday - Saturday: 10am til 8pm</p>
+					<p>Sunday: 11am til 5pm</p>
+				</div>
+				<div class="location-address">
+					<h3>Address:</h3>
+					<p>1765 Snow Rd.</p>
+					<p>Parma, Ohio 44134</p>
+					<p>(440) 857-0192</p>
+				</div>
+			</div>
+		</div>
+	</div>
 
-      <!-- Background Image-->
-      {% image './src/images/skyscraper.jpg', 'building', '', 'lazy'%}
-    </div>
+
+
+	</div>
   </div>
 </section>

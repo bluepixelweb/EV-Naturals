@@ -4,9 +4,9 @@
 /* Mobile */
 @media only screen and (min-width: 0em) {
   :root {
-    --primary: #46873D;
-    --primaryShade: #255934;
-    --primaryDark: #255934;
+    --primary: #59c24b;
+    --primaryShade: #4ec36f;
+    --primaryDark: #2dc357;
     --bodyTextColor: #1e2b23;
     --bodyTextColorWhite: #FAFBFC;
     --headerColor: #1a1a1a;
@@ -23,7 +23,6 @@
     font-style: normal;
     font-weight: 400;
     src: local(''), url('/assets/fonts/roboto-v29-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/assets/fonts/roboto-v29-latin-regular.woff') format('woff');
-    
     /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
   /* roboto-700 - latin */
@@ -32,7 +31,6 @@
     font-style: normal;
     font-weight: 700;
     src: local(''), url('/assets/fonts/roboto-v29-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/assets/fonts/roboto-v29-latin-700.woff') format('woff');
-    
     /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
   /* roboto-900 - latin */
@@ -41,7 +39,6 @@
     font-style: normal;
     font-weight: 900;
     src: local(''), url('/assets/fonts/roboto-v29-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */ url('/assets/fonts/roboto-v29-latin-900.woff') format('woff');
-    
     /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
   body,
@@ -58,11 +55,9 @@
   *:after {
     margin: 0;
     padding: 0;
-    -webkit-box-sizing: border-box;
-            box-sizing: border-box;
+    box-sizing: border-box;
   }
   body {
-    -webkit-transition: background-color 0.3s;
     transition: background-color 0.3s;
   }
   .container {
@@ -109,10 +104,8 @@
     z-index: 1;
     background-color: var(--primary);
     color: #000;
-    -webkit-transition: color .3s;
-    transition: color .3s;
-    -webkit-transition-delay: .1s;
-            transition-delay: .1s;
+    transition: color 0.3s;
+    transition-delay: 0.1s;
   }
   .button-solid:hover {
     color: #fff;
@@ -131,8 +124,7 @@
     z-index: -1;
     background-color: #000;
     width: 0;
-    -webkit-transition: width .3s;
-    transition: width .3s;
+    transition: width 0.3s;
   }
   .skip {
     position: absolute;
@@ -154,7 +146,7 @@
 @media only screen and (min-width: 2000px) {
   body,
   html {
-    font-size: .85vw;
+    font-size: 0.85vw;
   }
 }
 /*-- -------------------------- -->
@@ -177,8 +169,7 @@
     background-color: #fff;
     width: 100%;
     height: 100%;
-    -webkit-box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-            box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   }
   #navigation .container {
     padding: 0.8125rem 0;
@@ -210,10 +201,8 @@
     background: transparent;
     padding: 0;
     top: 50%;
-    -webkit-transform: translateY(-50%);
-            transform: translateY(-50%);
-    -webkit-transition: top .3s;
-    transition: top .3s;
+    transform: translateY(-50%);
+    transition: top 0.3s;
   }
   #navigation .hamburger-menu span {
     height: 2px;
@@ -222,9 +211,7 @@
     display: block;
     position: absolute;
     left: 50%;
-    -webkit-transform: translateX(-50%);
-            transform: translateX(-50%);
-    -webkit-transition: background-color 0.3s;
+    transform: translateX(-50%);
     transition: background-color 0.3s;
   }
   #navigation .hamburger-menu span:before {
@@ -237,10 +224,7 @@
     opacity: 1;
     top: -6px;
     left: 0;
-    -webkit-transition: width .3s, left .3s, top .3s, -webkit-transform .5s;
-    transition: width .3s, left .3s, top .3s, -webkit-transform .5s;
-    transition: width .3s, left .3s, top .3s, transform .5s;
-    transition: width .3s, left .3s, top .3s, transform .5s, -webkit-transform .5s;
+    transition: width 0.3s, left 0.3s, top 0.3s, transform 0.5s;
   }
   #navigation .hamburger-menu span:after {
     content: '';
@@ -252,25 +236,20 @@
     opacity: 1;
     top: 6px;
     left: 0;
-    -webkit-transition: width .3s, left .3s, top .3s, -webkit-transform .3s;
-    transition: width .3s, left .3s, top .3s, -webkit-transform .3s;
-    transition: width .3s, left .3s, top .3s, transform .3s;
-    transition: width .3s, left .3s, top .3s, transform .3s, -webkit-transform .3s;
+    transition: width 0.3s, left 0.3s, top 0.3s, transform 0.3s;
   }
   #navigation .hamburger-menu.clicked span {
     background-color: transparent;
   }
   #navigation .hamburger-menu.clicked span:before {
     width: 100%;
-    -webkit-transform: translate(-50%, -50%) rotate(225deg);
-            transform: translate(-50%, -50%) rotate(225deg);
+    transform: translate(-50%, -50%) rotate(225deg);
     left: 50%;
     top: 50%;
   }
   #navigation .hamburger-menu.clicked span:after {
     width: 100%;
-    -webkit-transform: translate(-50%, -50%) rotate(-225deg);
-            transform: translate(-50%, -50%) rotate(-225deg);
+    transform: translate(-50%, -50%) rotate(-225deg);
     left: 50%;
     top: 50%;
   }
@@ -282,61 +261,46 @@
     border-radius: 0 0 0.375em 0.375em;
     z-index: -1;
     overflow: hidden;
-    -webkit-box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-            box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     background-color: #fff;
     top: 3.6875rem;
     padding-top: 0;
     height: 0;
-    -webkit-transition: height 0.3s, padding-top 0.3s, top 0.3s;
     transition: height 0.3s, padding-top 0.3s, top 0.3s;
   }
   #navigation #navbar-menu ul {
     padding: 0;
-    -webkit-perspective: 700px;
-            perspective: 700px;
+    perspective: 700px;
   }
   #navigation #navbar-menu ul li {
     list-style: none;
     margin-bottom: 1.5rem;
     text-align: center;
-    -webkit-transform-style: preserve-3d;
-            transform-style: preserve-3d;
+    transform-style: preserve-3d;
     opacity: 0;
-    -webkit-transform: translateY(-0.4375rem) rotateX(90deg);
-            transform: translateY(-0.4375rem) rotateX(90deg);
-    -webkit-transition: opacity .5s, -webkit-transform .5s;
-    transition: opacity .5s, -webkit-transform .5s;
-    transition: opacity .5s, transform .5s;
-    transition: opacity .5s, transform .5s, -webkit-transform .5s;
+    transform: translateY(-0.4375rem) rotateX(90deg);
+    transition: opacity 0.5s, transform 0.5s;
   }
   #navigation #navbar-menu ul li:nth-of-type(1) {
-    -webkit-transition-delay: .01s;
-            transition-delay: .01s;
+    transition-delay: 0.01s;
   }
   #navigation #navbar-menu ul li:nth-of-type(2) {
-    -webkit-transition-delay: .02s;
-            transition-delay: .02s;
+    transition-delay: 0.02s;
   }
   #navigation #navbar-menu ul li:nth-of-type(3) {
-    -webkit-transition-delay: .03s;
-            transition-delay: .03s;
+    transition-delay: 0.03s;
   }
   #navigation #navbar-menu ul li:nth-of-type(4) {
-    -webkit-transition-delay: .04s;
-            transition-delay: .04s;
+    transition-delay: 0.04s;
   }
   #navigation #navbar-menu ul li:nth-of-type(5) {
-    -webkit-transition-delay: .05s;
-            transition-delay: .05s;
+    transition-delay: 0.05s;
   }
   #navigation #navbar-menu ul li:nth-of-type(6) {
-    -webkit-transition-delay: .06s;
-            transition-delay: .06s;
+    transition-delay: 0.06s;
   }
   #navigation #navbar-menu ul li:nth-of-type(7) {
-    -webkit-transition-delay: .07s;
-            transition-delay: .07s;
+    transition-delay: 0.07s;
   }
   #navigation #navbar-menu ul li a {
     text-decoration: none;
@@ -368,8 +332,7 @@
   }
   #navigation #navbar-menu.open ul li {
     opacity: 1;
-    -webkit-transform: translateY(0) rotateX(0);
-            transform: translateY(0) rotateX(0);
+    transform: translateY(0) rotateX(0);
   }
 }
 /* Desktop */
@@ -391,8 +354,7 @@
   }
   body.scroll #navigation .background-color-div {
     height: 100%;
-    -webkit-box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-            box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   }
   body.scroll #navigation .logo .light {
     display: none;
@@ -408,8 +370,7 @@
   }
   body.dark-mode #navigation .background-color-div {
     height: 100%;
-    -webkit-box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-            box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   }
   #navigation {
     width: 100%;
@@ -419,12 +380,8 @@
     left: 0;
     z-index: 200000;
     padding: 0;
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    align-items: center;
   }
   #navigation .background-color-div {
     position: absolute;
@@ -433,20 +390,13 @@
     width: 100%;
     background-color: #fff;
     height: 0;
-    -webkit-transition: height .3s;
-    transition: height .3s;
+    transition: height 0.3s;
   }
   #navigation .container {
     max-width: 75rem;
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: end;
-        -ms-flex-pack: end;
-            justify-content: flex-end;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    justify-content: flex-end;
+    align-items: center;
   }
   #navigation .logo {
     margin-right: auto;
@@ -459,15 +409,9 @@
   }
   #navigation #navbar-menu ul {
     padding: 0;
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: end;
-        -ms-flex-pack: end;
-            justify-content: flex-end;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    justify-content: flex-end;
+    align-items: center;
   }
   #navigation #navbar-menu ul li {
     list-style: none;
@@ -483,8 +427,7 @@
     position: relative;
     z-index: 1;
     color: #fff;
-    -webkit-transition: color .3s;
-    transition: color .3s;
+    transition: color 0.3s;
   }
   #navigation #navbar-menu ul li a:before {
     content: '';
@@ -498,8 +441,7 @@
     z-index: -1;
     left: 0;
     width: 0%;
-    -webkit-transition: width .3s;
-    transition: width .3s;
+    transition: width 0.3s;
   }
   #navigation #navbar-menu ul li a:hover:before {
     width: 100%;
@@ -517,8 +459,7 @@
     left: 0rem;
     right: -0.375rem;
     z-index: -1;
-    -webkit-transition: bottom .3s;
-    transition: bottom .3s;
+    transition: bottom 0.3s;
   }
   #navigation .hamburger-menu {
     display: none;
@@ -585,19 +526,10 @@
 /* Mobile */
 @media only screen and (min-width: 0em) {
   #int-hero {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     position: relative;
     z-index: 1;
     min-height: 30vh;
@@ -610,7 +542,7 @@
     height: 100%;
     width: 100%;
     background: #000;
-    opacity: .7;
+    opacity: 0.7;
     top: 0;
     left: 0;
     z-index: -1;
@@ -629,8 +561,7 @@
     left: 0;
     height: 100%;
     width: 100%;
-    -o-object-fit: cover;
-       object-fit: cover;
+    object-fit: cover;
   }
   #int-hero h1 {
     color: #fff;
@@ -668,8 +599,7 @@
     min-height: 18.75rem;
     height: auto;
     padding-top: 11.25rem;
-    -webkit-padding-after: 6.25rem;
-            padding-block-end: 6.25rem;
+    padding-block-end: 6.25rem;
     background-attachment: fixed;
     font-size: inherit;
   }
@@ -706,7 +636,7 @@
     font-size: 0.875rem;
     line-height: 1.92857143;
     color: #fff;
-    opacity: .9;
+    opacity: 0.9;
     text-align: center;
     width: 100%;
     width: 21.92857143rem;
@@ -718,14 +648,9 @@
     margin: auto;
   }
   #footer .right-section .lists {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    justify-content: space-between;
+    flex-wrap: wrap;
     width: 96%;
     max-width: 19.1875rem;
     margin: auto;
@@ -739,15 +664,9 @@
     margin-top: 3.125rem;
   }
   #footer .right-section .lists ul:nth-of-type(3) li {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: start;
-        -ms-flex-pack: start;
-            justify-content: flex-start;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    justify-content: flex-start;
+    align-items: center;
     margin-bottom: 1rem;
   }
   #footer .right-section .lists ul:nth-of-type(3) li:last-of-type {
@@ -758,14 +677,13 @@
     margin-bottom: 0.75rem;
     color: #fff;
     font-size: 1.125rem;
-    opacity: .9;
+    opacity: 0.9;
   }
   #footer .right-section .lists ul li a {
     text-decoration: none;
     color: #fff;
     line-height: 1.16666667em;
-    -webkit-transition: color .3s;
-    transition: color .3s;
+    transition: color 0.3s;
   }
   #footer .right-section .lists ul li a:hover {
     color: var(--primary);
@@ -791,12 +709,8 @@
     left: 0;
   }
   #footer .right-section .buttons {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    justify-content: center;
   }
   #footer .right-section .button-solid {
     margin: 0;
@@ -832,18 +746,10 @@
     font-size: min(1.2vw, 1em);
   }
   #footer .container {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
-    -ms-flex-wrap: nowrap;
-        flex-wrap: nowrap;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
     width: 96%;
     max-width: 82.5rem;
     margin: auto;
@@ -893,16 +799,13 @@
     opacity: 1;
     bottom: -0.1875rem;
     left: 0;
-    -webkit-transition: width .3s;
-    transition: width .3s;
+    transition: width 0.3s;
   }
   #footer .right-section .lists ul li a:hover:before {
     width: 100%;
   }
   #footer .right-section .buttons {
-    -webkit-box-pack: start;
-        -ms-flex-pack: start;
-            justify-content: flex-start;
+    justify-content: flex-start;
   }
   #footer .credit .copyright {
     display: inline-block;
