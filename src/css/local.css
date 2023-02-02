@@ -223,6 +223,9 @@
 }
 .card-body {
   color: #ffffff;
+  display: block;
+  height: 11.9rem;
+  margin-block: 1rem;
 }
 .card-title::after {
   content: "";
