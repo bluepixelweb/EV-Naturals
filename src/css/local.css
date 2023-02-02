@@ -166,7 +166,7 @@
   #shop-categories .cs-container .categoryGrid {
     display: grid;
     gap: 2rem;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(1, minmax(0, 1fr));
     width: 75vw;
   }
 }
@@ -287,6 +287,12 @@
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
     transition-delay: 0ms !important;
+  }
+}
+/* Tablet - 500px */
+@media only screen and (min-width: 32em) {
+  .categoryGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 /* Desktop - 1024px */

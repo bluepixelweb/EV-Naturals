@@ -194,7 +194,7 @@
 			.categoryGrid {
 			display: grid;
 			gap: 32/16rem;
-			grid-template-columns: repeat(2, minmax(0, 1fr));
+			grid-template-columns: repeat(1, minmax(0, 1fr));
 			width: 75vw;
 		
 			}
@@ -348,6 +348,14 @@
 	}
 }
 
+/* Tablet - 500px */
+
+@media only screen and (min-width: 32em) {
+	.categoryGrid {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+
+	}
+}
 
 /* Desktop - 1024px */
 @media only screen and (min-width: 64em) {
