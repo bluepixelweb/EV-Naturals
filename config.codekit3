@@ -266,7 +266,7 @@
     },
     "\/public\/assets\/images\/bg-delta8.jpg" : {
       "ft" : 16384,
-      "iS" : 2288328,
+      "iS" : 135301,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-delta8.jpg",
@@ -276,6 +276,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/public\/assets\/images\/bg-delta8.jpg.sb-781bd0be-erMbuX" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/assets\/images\/bg-delta8.jpg.sb-781bd0be-erMbuX",
+      "oF" : 0
     },
     "\/public\/assets\/images\/bg-edibles.jpeg" : {
       "ft" : 16384,
@@ -292,7 +300,7 @@
     },
     "\/public\/assets\/images\/bg-edibles.jpg" : {
       "ft" : 16384,
-      "iS" : 2911384,
+      "iS" : 186135,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-edibles.jpg",
@@ -302,6 +310,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/public\/assets\/images\/bg-edibles.jpg.sb-781bd0be-eyHYty" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/assets\/images\/bg-edibles.jpg.sb-781bd0be-eyHYty",
+      "oF" : 0
     },
     "\/public\/assets\/images\/bg-flower.jpeg" : {
       "ft" : 16384,
@@ -344,7 +360,7 @@
     },
     "\/public\/assets\/images\/bg-gummies.jpg" : {
       "ft" : 16384,
-      "iS" : 2440621,
+      "iS" : 189921,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-gummies.jpg",
@@ -355,9 +371,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/public\/assets\/images\/bg-gummies.jpg.sb-781bd0be-7B85z4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/assets\/images\/bg-gummies.jpg.sb-781bd0be-7B85z4",
+      "oF" : 0
+    },
     "\/public\/assets\/images\/bg-hemp.jpg" : {
       "ft" : 16384,
-      "iS" : 2546996,
+      "iS" : 169801,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-hemp.jpg",
@@ -367,6 +391,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/public\/assets\/images\/bg-hemp.jpg.sb-781bd0be-Pgn5Cv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/assets\/images\/bg-hemp.jpg.sb-781bd0be-Pgn5Cv",
+      "oF" : 0
     },
     "\/public\/assets\/images\/bg-oil.jpg" : {
       "ft" : 16384,
@@ -409,7 +441,7 @@
     },
     "\/public\/assets\/images\/bg-oils.jpg" : {
       "ft" : 16384,
-      "iS" : 2517407,
+      "iS" : 196612,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-oils.jpg",
@@ -419,6 +451,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/public\/assets\/images\/bg-oils.jpg.sb-781bd0be-wtblgL" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/assets\/images\/bg-oils.jpg.sb-781bd0be-wtblgL",
+      "oF" : 0
     },
     "\/public\/assets\/images\/bg-pets.jpeg" : {
       "ft" : 16384,
@@ -435,7 +475,7 @@
     },
     "\/public\/assets\/images\/bg-pets.jpg" : {
       "ft" : 16384,
-      "iS" : 2910997,
+      "iS" : 194915,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-pets.jpg",
@@ -445,6 +485,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/public\/assets\/images\/bg-pets.jpg.sb-781bd0be-runlmM" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/assets\/images\/bg-pets.jpg.sb-781bd0be-runlmM",
+      "oF" : 0
     },
     "\/public\/assets\/images\/bg-topicals.jpeg" : {
       "ft" : 16384,
@@ -461,7 +509,7 @@
     },
     "\/public\/assets\/images\/bg-topicals.jpg" : {
       "ft" : 16384,
-      "iS" : 2212506,
+      "iS" : 136874,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-topicals.jpg",
@@ -487,7 +535,7 @@
     },
     "\/public\/assets\/images\/bg-vapes.jpg" : {
       "ft" : 16384,
-      "iS" : 2809404,
+      "iS" : 186339,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-vapes.jpg",
@@ -497,6 +545,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/public\/assets\/images\/bg-vapes.jpg.sb-781bd0be-RHITvE" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/public\/assets\/images\/bg-vapes.jpg.sb-781bd0be-RHITvE",
+      "oF" : 0
     },
     "\/public\/assets\/images\/blog\/landing.jpg" : {
       "ft" : 16384,
@@ -2198,7 +2254,7 @@
       "oAP" : "\/src\/assets\/images\/bg-delta8.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -2211,7 +2267,7 @@
       "oAP" : "\/src\/assets\/images\/bg-edibles.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -2224,7 +2280,7 @@
       "oAP" : "\/src\/assets\/images\/bg-gummies.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -2237,7 +2293,7 @@
       "oAP" : "\/src\/assets\/images\/bg-hemp.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -2250,7 +2306,7 @@
       "oAP" : "\/src\/assets\/images\/bg-oils.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -2263,7 +2319,7 @@
       "oAP" : "\/src\/assets\/images\/bg-pets.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -2276,7 +2332,7 @@
       "oAP" : "\/src\/assets\/images\/bg-topicals.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -2289,7 +2345,7 @@
       "oAP" : "\/src\/assets\/images\/bg-vapes.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75

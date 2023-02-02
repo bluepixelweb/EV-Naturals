@@ -605,6 +605,7 @@
     height: 100%;
     width: 100%;
     object-fit: cover;
+    object-position: center;
   }
   #gallery .cs-row-1 .cs-picture-1 {
     width: 26.25em;
