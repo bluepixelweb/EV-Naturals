@@ -103,7 +103,7 @@
     },
     "\/public\/assets\/favicons\/android-chrome-192x192.png" : {
       "ft" : 32768,
-      "iS" : 15603,
+      "iS" : 12473,
       "oA" : 0,
       "oAP" : "\/public\/assets\/favicons\/android-chrome-192x192.png",
       "oF" : 0,
@@ -127,9 +127,22 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/public\/assets\/favicons\/android-chrome-512x512.png" : {
+      "ft" : 32768,
+      "iS" : 36451,
+      "oA" : 0,
+      "oAP" : "\/public\/assets\/favicons\/android-chrome-512x512.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/public\/assets\/favicons\/apple-touch-icon.png" : {
       "ft" : 32768,
-      "iS" : 14567,
+      "iS" : 11466,
       "oA" : 0,
       "oAP" : "\/public\/assets\/favicons\/apple-touch-icon.png",
       "oF" : 0,
@@ -150,7 +163,7 @@
     },
     "\/public\/assets\/favicons\/favicon-16x16.png" : {
       "ft" : 32768,
-      "iS" : 1035,
+      "iS" : 1418,
       "oA" : 0,
       "oAP" : "\/public\/assets\/favicons\/favicon-16x16.png",
       "oF" : 0,
@@ -163,7 +176,7 @@
     },
     "\/public\/assets\/favicons\/favicon-32x32.png" : {
       "ft" : 32768,
-      "iS" : 1960,
+      "iS" : 2385,
       "oA" : 0,
       "oAP" : "\/public\/assets\/favicons\/favicon-32x32.png",
       "oF" : 0,
@@ -184,7 +197,7 @@
     },
     "\/public\/assets\/favicons\/mstile-150x150.png" : {
       "ft" : 32768,
-      "iS" : 9273,
+      "iS" : 9889,
       "oA" : 0,
       "oAP" : "\/public\/assets\/favicons\/mstile-150x150.png",
       "oF" : 0,
@@ -194,6 +207,16 @@
       "ou" : "lpckwebp-none",
       "q" : 90,
       "rq" : 75
+    },
+    "\/public\/assets\/favicons\/safari-pinned-tab.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/public\/assets\/favicons\/safari-pinned-tab.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/public\/assets\/favicons\/site.webmanifest" : {
       "cB" : 0,
@@ -254,7 +277,7 @@
     "\/public\/assets\/images\/bg-delta8.jpeg" : {
       "ft" : 16384,
       "iS" : 2324500,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-delta8.jpg",
       "oF" : 0,
@@ -267,7 +290,7 @@
     "\/public\/assets\/images\/bg-delta8.jpg" : {
       "ft" : 16384,
       "iS" : 135301,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-delta8.jpg",
       "oF" : 0,
@@ -288,7 +311,7 @@
     "\/public\/assets\/images\/bg-edibles.jpeg" : {
       "ft" : 16384,
       "iS" : 2942261,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-edibles.jpg",
       "oF" : 0,
@@ -301,7 +324,7 @@
     "\/public\/assets\/images\/bg-edibles.jpg" : {
       "ft" : 16384,
       "iS" : 186135,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-edibles.jpg",
       "oF" : 0,
@@ -322,7 +345,7 @@
     "\/public\/assets\/images\/bg-flower.jpeg" : {
       "ft" : 16384,
       "iS" : 2576823,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-flower.jpg",
       "oF" : 0,
@@ -335,7 +358,7 @@
     "\/public\/assets\/images\/bg-flower.jpg" : {
       "ft" : 16384,
       "iS" : 2546996,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-flower.jpg",
       "oF" : 0,
@@ -348,7 +371,7 @@
     "\/public\/assets\/images\/bg-gummies.jpeg" : {
       "ft" : 16384,
       "iS" : 2469061,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-gummies.jpg",
       "oF" : 0,
@@ -361,7 +384,7 @@
     "\/public\/assets\/images\/bg-gummies.jpg" : {
       "ft" : 16384,
       "iS" : 189921,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-gummies.jpg",
       "oF" : 0,
@@ -382,7 +405,7 @@
     "\/public\/assets\/images\/bg-hemp.jpg" : {
       "ft" : 16384,
       "iS" : 169801,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-hemp.jpg",
       "oF" : 0,
@@ -403,7 +426,7 @@
     "\/public\/assets\/images\/bg-oil.jpg" : {
       "ft" : 16384,
       "iS" : 2517407,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-oil.jpg",
       "oF" : 0,
@@ -416,7 +439,7 @@
     "\/public\/assets\/images\/bg-oil2.jpeg" : {
       "ft" : 16384,
       "iS" : 2549105,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-oil2.jpg",
       "oF" : 0,
@@ -429,7 +452,7 @@
     "\/public\/assets\/images\/bg-oil2.jpg" : {
       "ft" : 16384,
       "iS" : 2517407,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-oil2.jpg",
       "oF" : 0,
@@ -442,7 +465,7 @@
     "\/public\/assets\/images\/bg-oils.jpg" : {
       "ft" : 16384,
       "iS" : 196612,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-oils.jpg",
       "oF" : 0,
@@ -463,7 +486,7 @@
     "\/public\/assets\/images\/bg-pets.jpeg" : {
       "ft" : 16384,
       "iS" : 2938468,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-pets.jpg",
       "oF" : 0,
@@ -476,7 +499,7 @@
     "\/public\/assets\/images\/bg-pets.jpg" : {
       "ft" : 16384,
       "iS" : 194915,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-pets.jpg",
       "oF" : 0,
@@ -497,7 +520,7 @@
     "\/public\/assets\/images\/bg-topicals.jpeg" : {
       "ft" : 16384,
       "iS" : 2245855,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-topicals.jpg",
       "oF" : 0,
@@ -510,7 +533,7 @@
     "\/public\/assets\/images\/bg-topicals.jpg" : {
       "ft" : 16384,
       "iS" : 136874,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-topicals.jpg",
       "oF" : 0,
@@ -523,7 +546,7 @@
     "\/public\/assets\/images\/bg-vapes.jpeg" : {
       "ft" : 16384,
       "iS" : 2840533,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-vapes.jpg",
       "oF" : 0,
@@ -536,7 +559,7 @@
     "\/public\/assets\/images\/bg-vapes.jpg" : {
       "ft" : 16384,
       "iS" : 186339,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/bg-vapes.jpg",
       "oF" : 0,
@@ -557,7 +580,7 @@
     "\/public\/assets\/images\/blog\/landing.jpg" : {
       "ft" : 16384,
       "iS" : 248982,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/assets\/images\/blog\/landing.jpg",
       "oF" : 0,
@@ -984,7 +1007,7 @@
     "\/public\/images\/cabinets2-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 6399,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/cabinets2-200w.jpg",
       "oF" : 1,
@@ -1008,7 +1031,7 @@
     "\/public\/images\/cabinets2-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 19390,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/cabinets2-400w.jpg",
       "oF" : 1,
@@ -1032,7 +1055,7 @@
     "\/public\/images\/cabinets2-850w.jpeg" : {
       "ft" : 16384,
       "iS" : 66216,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/cabinets2-850w.jpg",
       "oF" : 1,
@@ -1056,7 +1079,7 @@
     "\/public\/images\/cabinets2-1920w.jpeg" : {
       "ft" : 16384,
       "iS" : 171910,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/cabinets2-1920w.jpg",
       "oF" : 1,
@@ -1080,7 +1103,7 @@
     "\/public\/images\/construction-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 11550,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/construction-200w.jpg",
       "oF" : 1,
@@ -1104,7 +1127,7 @@
     "\/public\/images\/construction-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 37603,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/construction-400w.jpg",
       "oF" : 1,
@@ -1128,7 +1151,7 @@
     "\/public\/images\/front-parma-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 5813,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/images\/front-parma-200w.jpg",
       "oF" : 0,
@@ -1152,7 +1175,7 @@
     "\/public\/images\/front-parma-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 21811,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/images\/front-parma-400w.jpg",
       "oF" : 0,
@@ -1176,7 +1199,7 @@
     "\/public\/images\/front-parma-850w.jpeg" : {
       "ft" : 16384,
       "iS" : 108087,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/images\/front-parma-850w.jpg",
       "oF" : 0,
@@ -1200,7 +1223,7 @@
     "\/public\/images\/landing-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 6407,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/landing-200w.jpg",
       "oF" : 1,
@@ -1224,7 +1247,7 @@
     "\/public\/images\/landing-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 19527,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/landing-400w.jpg",
       "oF" : 1,
@@ -1248,7 +1271,7 @@
     "\/public\/images\/landing-850w.jpeg" : {
       "ft" : 16384,
       "iS" : 69715,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/landing-850w.jpg",
       "oF" : 1,
@@ -1272,7 +1295,7 @@
     "\/public\/images\/landing-1920w.jpeg" : {
       "ft" : 16384,
       "iS" : 262148,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/landing-1920w.jpg",
       "oF" : 1,
@@ -1296,7 +1319,7 @@
     "\/public\/images\/landing-2500w.jpeg" : {
       "ft" : 16384,
       "iS" : 298781,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/landing-2500w.jpg",
       "oF" : 1,
@@ -1320,7 +1343,7 @@
     "\/public\/images\/landing-parma-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 8345,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/landing-parma-200w.jpg",
       "oF" : 1,
@@ -1344,7 +1367,7 @@
     "\/public\/images\/landing-parma-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 27273,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/landing-parma-400w.jpg",
       "oF" : 1,
@@ -1368,7 +1391,7 @@
     "\/public\/images\/landing-parma-850w.jpeg" : {
       "ft" : 16384,
       "iS" : 113130,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/landing-parma-850w.jpg",
       "oF" : 1,
@@ -1392,7 +1415,7 @@
     "\/public\/images\/landing-parma-1920w.jpeg" : {
       "ft" : 16384,
       "iS" : 507413,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/landing-parma-1920w.jpg",
       "oF" : 1,
@@ -1416,7 +1439,7 @@
     "\/public\/images\/landing-parma-2500w.jpeg" : {
       "ft" : 16384,
       "iS" : 807502,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/landing-parma-2500w.jpg",
       "oF" : 1,
@@ -1440,7 +1463,7 @@
     "\/public\/images\/parma-front-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 11283,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/parma-front-200w.jpg",
       "oF" : 1,
@@ -1464,7 +1487,7 @@
     "\/public\/images\/parma-front-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 39254,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/parma-front-400w.jpg",
       "oF" : 1,
@@ -1488,7 +1511,7 @@
     "\/public\/images\/parma-front-850w.jpeg" : {
       "ft" : 16384,
       "iS" : 113988,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/public\/images\/parma-front-850w.jpg",
       "oF" : 0,
@@ -1512,7 +1535,7 @@
     "\/public\/images\/placeholder-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 5263,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/placeholder-200w.jpg",
       "oF" : 1,
@@ -1536,7 +1559,7 @@
     "\/public\/images\/placeholder-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 13339,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/placeholder-400w.jpg",
       "oF" : 1,
@@ -1560,7 +1583,7 @@
     "\/public\/images\/port1-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 11703,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port1-200w.jpg",
       "oF" : 1,
@@ -1584,7 +1607,7 @@
     "\/public\/images\/port1-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 41105,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port1-400w.jpg",
       "oF" : 1,
@@ -1608,7 +1631,7 @@
     "\/public\/images\/port2-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 9927,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port2-200w.jpg",
       "oF" : 1,
@@ -1632,7 +1655,7 @@
     "\/public\/images\/port2-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 34039,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port2-400w.jpg",
       "oF" : 1,
@@ -1656,7 +1679,7 @@
     "\/public\/images\/port3-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 12817,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port3-200w.jpg",
       "oF" : 1,
@@ -1680,7 +1703,7 @@
     "\/public\/images\/port3-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 41671,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port3-400w.jpg",
       "oF" : 1,
@@ -1704,7 +1727,7 @@
     "\/public\/images\/port4-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 11386,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port4-200w.jpg",
       "oF" : 1,
@@ -1728,7 +1751,7 @@
     "\/public\/images\/port4-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 38043,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port4-400w.jpg",
       "oF" : 1,
@@ -1752,7 +1775,7 @@
     "\/public\/images\/port5-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 14227,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port5-200w.jpg",
       "oF" : 1,
@@ -1776,7 +1799,7 @@
     "\/public\/images\/port5-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 48791,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port5-400w.jpg",
       "oF" : 1,
@@ -1800,7 +1823,7 @@
     "\/public\/images\/port6-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 10781,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port6-200w.jpg",
       "oF" : 1,
@@ -1824,7 +1847,7 @@
     "\/public\/images\/port6-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 40004,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port6-400w.jpg",
       "oF" : 1,
@@ -1848,7 +1871,7 @@
     "\/public\/images\/port7-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 11269,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port7-200w.jpg",
       "oF" : 1,
@@ -1872,7 +1895,7 @@
     "\/public\/images\/port7-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 38724,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port7-400w.jpg",
       "oF" : 1,
@@ -1896,7 +1919,7 @@
     "\/public\/images\/port8-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 12037,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port8-200w.jpg",
       "oF" : 1,
@@ -1920,7 +1943,7 @@
     "\/public\/images\/port8-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 39053,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port8-400w.jpg",
       "oF" : 1,
@@ -1944,7 +1967,7 @@
     "\/public\/images\/port9-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 12827,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port9-200w.jpg",
       "oF" : 1,
@@ -1968,7 +1991,7 @@
     "\/public\/images\/port9-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 45530,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/port9-400w.jpg",
       "oF" : 1,
@@ -1992,7 +2015,7 @@
     "\/public\/images\/skyscraper-200w.jpeg" : {
       "ft" : 16384,
       "iS" : 11617,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/skyscraper-200w.jpg",
       "oF" : 1,
@@ -2016,7 +2039,7 @@
     "\/public\/images\/skyscraper-400w.jpeg" : {
       "ft" : 16384,
       "iS" : 48608,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 1,
       "oAP" : "\/public\/images\/skyscraper-400w.jpg",
       "oF" : 1,
@@ -2194,7 +2217,7 @@
     },
     "\/src\/assets\/favicons\/android-chrome-192x192.png" : {
       "ft" : 32768,
-      "iS" : 15603,
+      "iS" : 12473,
       "oA" : 0,
       "oAP" : "\/src\/assets\/favicons\/android-chrome-192x192.png",
       "oF" : 0,
@@ -2205,11 +2228,11 @@
       "q" : 90,
       "rq" : 75
     },
-    "\/src\/assets\/favicons\/android-chrome-384x384.png" : {
+    "\/src\/assets\/favicons\/android-chrome-512x512.png" : {
       "ft" : 32768,
-      "iS" : 34983,
+      "iS" : 36451,
       "oA" : 0,
-      "oAP" : "\/src\/assets\/favicons\/android-chrome-384x384.png",
+      "oAP" : "\/src\/assets\/favicons\/android-chrome-512x512.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -2220,7 +2243,7 @@
     },
     "\/src\/assets\/favicons\/apple-touch-icon.png" : {
       "ft" : 32768,
-      "iS" : 14567,
+      "iS" : 11466,
       "oA" : 0,
       "oAP" : "\/src\/assets\/favicons\/apple-touch-icon.png",
       "oF" : 0,
@@ -2241,7 +2264,7 @@
     },
     "\/src\/assets\/favicons\/favicon-16x16.png" : {
       "ft" : 32768,
-      "iS" : 1035,
+      "iS" : 1418,
       "oA" : 0,
       "oAP" : "\/src\/assets\/favicons\/favicon-16x16.png",
       "oF" : 0,
@@ -2254,7 +2277,7 @@
     },
     "\/src\/assets\/favicons\/favicon-32x32.png" : {
       "ft" : 32768,
-      "iS" : 1960,
+      "iS" : 2385,
       "oA" : 0,
       "oAP" : "\/src\/assets\/favicons\/favicon-32x32.png",
       "oF" : 0,
@@ -2275,7 +2298,7 @@
     },
     "\/src\/assets\/favicons\/mstile-150x150.png" : {
       "ft" : 32768,
-      "iS" : 9273,
+      "iS" : 9889,
       "oA" : 0,
       "oAP" : "\/src\/assets\/favicons\/mstile-150x150.png",
       "oF" : 0,
@@ -2285,6 +2308,16 @@
       "ou" : "lpckwebp-none",
       "q" : 90,
       "rq" : 75
+    },
+    "\/src\/assets\/favicons\/safari-pinned-tab.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/src\/assets\/favicons\/safari-pinned-tab.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/src\/assets\/favicons\/site.webmanifest" : {
       "cB" : 0,
@@ -2345,7 +2378,7 @@
     "\/src\/assets\/images\/bg-delta8.jpg" : {
       "ft" : 16384,
       "iS" : 2288328,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-delta8.jpg",
       "oF" : 0,
@@ -2358,7 +2391,7 @@
     "\/src\/assets\/images\/bg-edibles.jpg" : {
       "ft" : 16384,
       "iS" : 2911384,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-edibles.jpg",
       "oF" : 0,
@@ -2371,7 +2404,7 @@
     "\/src\/assets\/images\/bg-gummies.jpg" : {
       "ft" : 16384,
       "iS" : 2440621,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-gummies.jpg",
       "oF" : 0,
@@ -2384,7 +2417,7 @@
     "\/src\/assets\/images\/bg-hemp.jpg" : {
       "ft" : 16384,
       "iS" : 2546996,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-hemp.jpg",
       "oF" : 0,
@@ -2397,7 +2430,7 @@
     "\/src\/assets\/images\/bg-oils.jpg" : {
       "ft" : 16384,
       "iS" : 2517407,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-oils.jpg",
       "oF" : 0,
@@ -2410,7 +2443,7 @@
     "\/src\/assets\/images\/bg-pets.jpg" : {
       "ft" : 16384,
       "iS" : 2910997,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-pets.jpg",
       "oF" : 0,
@@ -2423,7 +2456,7 @@
     "\/src\/assets\/images\/bg-topicals.jpg" : {
       "ft" : 16384,
       "iS" : 2212506,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-topicals.jpg",
       "oF" : 0,
@@ -2436,7 +2469,7 @@
     "\/src\/assets\/images\/bg-vapes.jpg" : {
       "ft" : 16384,
       "iS" : 2809404,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-vapes.jpg",
       "oF" : 0,
@@ -2449,7 +2482,7 @@
     "\/src\/assets\/images\/blog\/landing.jpg" : {
       "ft" : 16384,
       "iS" : 248982,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/blog\/landing.jpg",
       "oF" : 0,
@@ -2940,7 +2973,7 @@
     "\/src\/images\/cabinets2.jpg" : {
       "ft" : 16384,
       "iS" : 151011,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/cabinets2.jpg",
       "oF" : 0,
@@ -2953,7 +2986,7 @@
     "\/src\/images\/construction.jpg" : {
       "ft" : 16384,
       "iS" : 49295,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/construction.jpg",
       "oF" : 0,
@@ -2966,7 +2999,7 @@
     "\/src\/images\/landing-parma.jpg" : {
       "ft" : 16384,
       "iS" : 2824853,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/landing-parma.jpg",
       "oF" : 0,
@@ -2979,7 +3012,7 @@
     "\/src\/images\/parma-front.jpg" : {
       "ft" : 16384,
       "iS" : 282182,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/parma-front.jpg",
       "oF" : 0,
@@ -3005,7 +3038,7 @@
     "\/src\/images\/portfolio\/port1-m.jpg" : {
       "ft" : 16384,
       "iS" : 48227,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port1-m.jpg",
       "oF" : 0,
@@ -3018,7 +3051,7 @@
     "\/src\/images\/portfolio\/port1.jpg" : {
       "ft" : 16384,
       "iS" : 204396,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port1.jpg",
       "oF" : 0,
@@ -3031,7 +3064,7 @@
     "\/src\/images\/portfolio\/port2-m.jpg" : {
       "ft" : 16384,
       "iS" : 40560,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port2-m.jpg",
       "oF" : 0,
@@ -3044,7 +3077,7 @@
     "\/src\/images\/portfolio\/port2.jpg" : {
       "ft" : 16384,
       "iS" : 178579,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port2.jpg",
       "oF" : 0,
@@ -3057,7 +3090,7 @@
     "\/src\/images\/portfolio\/port3-m.jpg" : {
       "ft" : 16384,
       "iS" : 50583,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port3-m.jpg",
       "oF" : 0,
@@ -3070,7 +3103,7 @@
     "\/src\/images\/portfolio\/port3.jpg" : {
       "ft" : 16384,
       "iS" : 201119,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port3.jpg",
       "oF" : 0,
@@ -3083,7 +3116,7 @@
     "\/src\/images\/portfolio\/port4-m.jpg" : {
       "ft" : 16384,
       "iS" : 46240,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port4-m.jpg",
       "oF" : 0,
@@ -3096,7 +3129,7 @@
     "\/src\/images\/portfolio\/port4.jpg" : {
       "ft" : 16384,
       "iS" : 185558,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port4.jpg",
       "oF" : 0,
@@ -3109,7 +3142,7 @@
     "\/src\/images\/portfolio\/port5-m.jpg" : {
       "ft" : 16384,
       "iS" : 57838,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port5-m.jpg",
       "oF" : 0,
@@ -3122,7 +3155,7 @@
     "\/src\/images\/portfolio\/port5.jpg" : {
       "ft" : 16384,
       "iS" : 233495,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port5.jpg",
       "oF" : 0,
@@ -3135,7 +3168,7 @@
     "\/src\/images\/portfolio\/port6-m.jpg" : {
       "ft" : 16384,
       "iS" : 47352,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port6-m.jpg",
       "oF" : 0,
@@ -3148,7 +3181,7 @@
     "\/src\/images\/portfolio\/port6.jpg" : {
       "ft" : 16384,
       "iS" : 198397,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port6.jpg",
       "oF" : 0,
@@ -3161,7 +3194,7 @@
     "\/src\/images\/portfolio\/port7-m.jpg" : {
       "ft" : 16384,
       "iS" : 45447,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port7-m.jpg",
       "oF" : 0,
@@ -3174,7 +3207,7 @@
     "\/src\/images\/portfolio\/port7.jpg" : {
       "ft" : 16384,
       "iS" : 172513,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port7.jpg",
       "oF" : 0,
@@ -3187,7 +3220,7 @@
     "\/src\/images\/portfolio\/port8-m.jpg" : {
       "ft" : 16384,
       "iS" : 46885,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port8-m.jpg",
       "oF" : 0,
@@ -3200,7 +3233,7 @@
     "\/src\/images\/portfolio\/port8.jpg" : {
       "ft" : 16384,
       "iS" : 187885,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port8.jpg",
       "oF" : 0,
@@ -3213,7 +3246,7 @@
     "\/src\/images\/portfolio\/port9-m.jpg" : {
       "ft" : 16384,
       "iS" : 54573,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port9-m.jpg",
       "oF" : 0,
@@ -3226,7 +3259,7 @@
     "\/src\/images\/portfolio\/port9.jpg" : {
       "ft" : 16384,
       "iS" : 235129,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/portfolio\/port9.jpg",
       "oF" : 0,
@@ -3239,7 +3272,7 @@
     "\/src\/images\/skyscraper.jpg" : {
       "ft" : 16384,
       "iS" : 59179,
-      "jF" : 0,
+      "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/images\/skyscraper.jpg",
       "oF" : 0,
@@ -4653,7 +4686,7 @@
       "autoOutputPathReplace1" : "",
       "autoOutputPathReplace2" : "",
       "autoOutputPathStyle" : 0,
-      "outputFormat" : 0,
+      "outputFormat" : 2,
       "quality" : 100,
       "webpOptimizationPresetUUID" : "lpckwebp-none",
       "webpRGBQuality" : 75
