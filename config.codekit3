@@ -2381,11 +2381,11 @@
       "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-delta8.jpg",
-      "oF" : 0,
+      "oF" : 1,
       "oIPL" : 0,
       "opt" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 70,
       "rq" : 75
     },
     "\/src\/assets\/images\/bg-edibles.jpg" : {
@@ -2394,11 +2394,11 @@
       "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-edibles.jpg",
-      "oF" : 0,
+      "oF" : 1,
       "oIPL" : 0,
       "opt" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 70,
       "rq" : 75
     },
     "\/src\/assets\/images\/bg-gummies.jpg" : {
@@ -2407,11 +2407,11 @@
       "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-gummies.jpg",
-      "oF" : 0,
+      "oF" : 1,
       "oIPL" : 0,
       "opt" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 70,
       "rq" : 75
     },
     "\/src\/assets\/images\/bg-hemp.jpg" : {
@@ -2420,11 +2420,11 @@
       "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-hemp.jpg",
-      "oF" : 0,
+      "oF" : 1,
       "oIPL" : 0,
       "opt" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 70,
       "rq" : 75
     },
     "\/src\/assets\/images\/bg-oils.jpg" : {
@@ -2433,11 +2433,11 @@
       "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-oils.jpg",
-      "oF" : 0,
+      "oF" : 1,
       "oIPL" : 0,
       "opt" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 70,
       "rq" : 75
     },
     "\/src\/assets\/images\/bg-pets.jpg" : {
@@ -2446,11 +2446,11 @@
       "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-pets.jpg",
-      "oF" : 0,
+      "oF" : 1,
       "oIPL" : 0,
       "opt" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 70,
       "rq" : 75
     },
     "\/src\/assets\/images\/bg-topicals.jpg" : {
@@ -2459,11 +2459,11 @@
       "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-topicals.jpg",
-      "oF" : 0,
+      "oF" : 1,
       "oIPL" : 0,
       "opt" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 70,
       "rq" : 75
     },
     "\/src\/assets\/images\/bg-vapes.jpg" : {
@@ -2472,11 +2472,11 @@
       "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/bg-vapes.jpg",
-      "oF" : 0,
+      "oF" : 1,
       "oIPL" : 0,
       "opt" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 100,
+      "q" : 70,
       "rq" : 75
     },
     "\/src\/assets\/images\/blog\/landing.jpg" : {
@@ -2485,7 +2485,7 @@
       "jF" : 2,
       "oA" : 0,
       "oAP" : "\/src\/assets\/images\/blog\/landing.jpg",
-      "oF" : 0,
+      "oF" : 1,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-none",
