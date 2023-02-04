@@ -294,7 +294,7 @@
 }
 /* Tablet - 500px */
 @media only screen and (min-width: 32em) {
-  .categoryGrid {
+  #shop-categories .cs-container .categoryGrid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
@@ -312,6 +312,12 @@
   #sbs .cs-right {
     margin: 0;
   }
+  #shop-categories .cs-container .categoryGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+/* Large Desktop 1600px */
+@media only screen and (min-width: 1600px) {
   #shop-categories .cs-container .categoryGrid {
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }

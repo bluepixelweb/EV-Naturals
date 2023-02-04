@@ -1,12 +1,46 @@
 ---
-layout: 'base.html' 
-description: "Meta description for the page"
-metaTitle: 'Title that shows up on social OG tags'
-tagTitle: 'Title that shows up on google, and is concatenated with | {{ client.name }}'
+layout: 'base.html'
+description: 'EV-Naturals is your #1 source for CBD in the Greater Cleveland area.'
+metaTitle: 'EV-Naturals is your #1 source for CBD in the Greater Cleveland area.'
+tagTitle: 'Contact'
+preloadImg: '/images/landing-parma-1920w.webp'
+preloadCSS: '/css/about.css'
 permalink: 'blog/'
 eleventyNavigation:
     key: Blog
-    order: 250
+    order: 550
 ---
 
-<meta http-equiv="refresh" content="0; URL=https://shop.evnaturals.com/blog" />
+<!-- Enter html code below -->
+
+<!-- ============================================ -->
+<!--                    LANDING                   -->
+<!-- ============================================ -->
+
+<section id="int-hero">
+	<h1 id="home-h">About Us</h1>
+	{% image './src/images/landing-parma.jpg', 'a photo of the inside of our Parma locatation', '', 'lazy', '(max-width: 850px) 850px, 1920px'%}
+  </section>
+  
+  <!-- ============================================ -->
+  <!--                 Side By Side                 -->
+  <!-- ============================================ -->
+  
+  <section id="sbs">
+	<div class="cs-container">
+	  <!-- Left Image Section -->
+	  <div class="cs-left">
+		{% image './src/images/parma-front.jpg', 'cabinets', 'cs-picture cs-picture1', 'lazy'%}
+	  </div>
+	  <!-- Right Content Section-->
+	  <div class="cs-right">
+		<h2 class="cs-title">EV-Naturals online store is temporarily down</h2>
+		  <p class="cs-text">
+			  Thank you for your patience as we prepare our new website.</p>
+		  <p class="cs-text">
+			  We should be back online by Monday February 6th.
+		  </p>
+	  </div>
+	</div>
+  </section>
+  
